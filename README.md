@@ -2,4 +2,4 @@
  primeiro repositorio do curso Git e GitHub
 
 Repositorio criado na aula ao vivo .
-essa linha adicionado direto pelo site!
+essa linha foi adicionada direto pelo site!
